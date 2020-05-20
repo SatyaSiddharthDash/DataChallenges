@@ -7,3 +7,7 @@
 2. Analysis(solutions) in:
     - /Relax_analysis
     - /Ultimate_analysis
+
+Progress:
+    Relax:      🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜
+    Ultimate:   🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜
