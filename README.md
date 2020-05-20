@@ -9,6 +9,5 @@
     - /Ultimate_analysis
 
 Progress:
-    Relax:      🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜
-
-    Ultimate:   🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜
+- Relax:      🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 
+- Ultimate:   🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜
